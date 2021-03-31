@@ -1,0 +1,6 @@
+/Users/don/Projects/LinearSearch/LinearSearch/bin/Debug/LinearSearch.exe
+/Users/don/Projects/LinearSearch/LinearSearch/bin/Debug/LinearSearch.pdb
+/Users/don/Projects/LinearSearch/LinearSearch/obj/Debug/LinearSearch.csprojAssemblyReference.cache
+/Users/don/Projects/LinearSearch/LinearSearch/obj/Debug/LinearSearch.csproj.CoreCompileInputs.cache
+/Users/don/Projects/LinearSearch/LinearSearch/obj/Debug/LinearSearch.exe
+/Users/don/Projects/LinearSearch/LinearSearch/obj/Debug/LinearSearch.pdb

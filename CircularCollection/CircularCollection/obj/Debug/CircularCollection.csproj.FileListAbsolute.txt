@@ -1,0 +1,2 @@
+/Users/don/Projects/CircularCollection/CircularCollection/obj/Debug/CircularCollection.csprojAssemblyReference.cache
+/Users/don/Projects/CircularCollection/CircularCollection/obj/Debug/CircularCollection.csproj.CoreCompileInputs.cache

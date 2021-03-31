@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineArguments", "CommandLineArguments\CommandLineArguments.csproj", "{EC3724D5-8ADB-4898-8E01-A30DEA80C0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3724D5-8ADB-4898-8E01-A30DEA80C0CC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EC3724D5-8ADB-4898-8E01-A30DEA80C0CC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EC3724D5-8ADB-4898-8E01-A30DEA80C0CC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EC3724D5-8ADB-4898-8E01-A30DEA80C0CC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

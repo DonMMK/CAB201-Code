@@ -1,0 +1,6 @@
+/Users/don/Projects/StudentGradeOrder/StudentGradeOrder/bin/Debug/StudentGradeOrder.exe
+/Users/don/Projects/StudentGradeOrder/StudentGradeOrder/bin/Debug/StudentGradeOrder.pdb
+/Users/don/Projects/StudentGradeOrder/StudentGradeOrder/obj/Debug/StudentGradeOrder.csprojAssemblyReference.cache
+/Users/don/Projects/StudentGradeOrder/StudentGradeOrder/obj/Debug/StudentGradeOrder.csproj.CoreCompileInputs.cache
+/Users/don/Projects/StudentGradeOrder/StudentGradeOrder/obj/Debug/StudentGradeOrder.exe
+/Users/don/Projects/StudentGradeOrder/StudentGradeOrder/obj/Debug/StudentGradeOrder.pdb

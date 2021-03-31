@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FFA212F5-8962-43E5-AB47-CFC344E73D1B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week7 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week7/Program.cs">
+    <Files>
+      <File FileName="Week7/Program.cs" Line="14" Column="1" />
+      <File FileName="Week7/Point2D.cs" />
+      <File FileName="Week7/Shape2D.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

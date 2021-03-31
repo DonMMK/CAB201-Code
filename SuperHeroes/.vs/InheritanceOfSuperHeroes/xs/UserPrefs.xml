@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{25FBDE0B-1135-4BFC-8191-016E5F7C3157}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="41" Column="26" />
+      <File FileName="Human.cs" Line="59" Column="10" />
+      <File FileName="EnhancedHuman.cs" Line="9" Column="11" />
+      <File FileName="SuperHero.cs" Line="28" Column="27" />
+      <File FileName="SuperHuman.cs" Line="11" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InheritanceOfSuperHeroes" expanded="True">
+            <Node name="InheritanceOfSuperHeroes" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="InheritanceOfSuperHeroes" expanded="True">
+            <Node name="InheritanceOfSuperHeroes" expanded="True">
+              <Node name="InheritanceOfSuperHeroes" expanded="True">
+                <Node name="InheritanceOfSuperHeroes.SuperHuman" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InheritanceOfSuperHeroes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

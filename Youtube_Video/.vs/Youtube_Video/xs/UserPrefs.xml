@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7C606DD5-9E89-4A68-9469-F0574E9DDBF3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Youtube__Video FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Youtube_Video/Program.cs">
+    <Files>
+      <File FileName="Youtube_Video/Program.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

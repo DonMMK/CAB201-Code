@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{094A3BC4-D7DB-4353-8A7F-3E9E38DA21CC}|Default">
+  <MonoDevelop.Ide.ItemProperties.WritingRainfallData FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WritingRainfallData/Program.cs">
+    <Files>
+      <File FileName="WritingRainfallData/Program.cs" Line="58" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

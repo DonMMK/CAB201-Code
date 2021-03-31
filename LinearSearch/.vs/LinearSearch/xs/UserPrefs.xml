@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F677A148-B6CF-427E-B322-05A6CB414DA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinearSearch/Program.cs">
+    <Files>
+      <File FileName="LinearSearch/Program.cs" Line="39" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinearSearch" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LinearSearch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

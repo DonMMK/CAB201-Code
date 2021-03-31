@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularCollection", "CircularCollection\CircularCollection.csproj", "{C59B0E26-9379-4838-B5CC-D3511B23D00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59B0E26-9379-4838-B5CC-D3511B23D00B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C59B0E26-9379-4838-B5CC-D3511B23D00B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C59B0E26-9379-4838-B5CC-D3511B23D00B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C59B0E26-9379-4838-B5CC-D3511B23D00B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

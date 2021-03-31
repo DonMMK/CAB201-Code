@@ -1,0 +1,12 @@
+/Users/don/Projects/SuperHeroes/bin/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.deps.json
+/Users/don/Projects/SuperHeroes/bin/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.runtimeconfig.json
+/Users/don/Projects/SuperHeroes/bin/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.runtimeconfig.dev.json
+/Users/don/Projects/SuperHeroes/bin/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.dll
+/Users/don/Projects/SuperHeroes/bin/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.pdb
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.csprojAssemblyReference.cache
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.AssemblyInfoInputs.cache
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.AssemblyInfo.cs
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.csproj.CoreCompileInputs.cache
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.dll
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.pdb
+/Users/don/Projects/SuperHeroes/obj/Debug/netcoreapp3.1/InheritanceOfSuperHeroes.genruntimeconfig.cache

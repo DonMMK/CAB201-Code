@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{53664997-1B55-4CB6-8D58-688E6112012E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generating__Unique__Numbers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generating_Unique_Numbers/Program.cs">
+    <Files>
+      <File FileName="Generating_Unique_Numbers/Program.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

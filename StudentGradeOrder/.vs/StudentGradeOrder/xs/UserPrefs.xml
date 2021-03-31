@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FB172A40-9C31-46A3-BA9C-BD09977823C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentGradeOrder/Program.cs">
+    <Files>
+      <File FileName="StudentGradeOrder/Program.cs" Line="35" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentGradeOrder" expanded="True">
+            <Node name="StudentGradeOrder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="StudentGradeOrder" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentGradeOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FF8E08AB-3886-4C06-BFA1-30D7DE8ED047}|Default">
+  <MonoDevelop.Ide.ItemProperties.CAB201__Week__3__Notes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CAB201_Week_3_Notes/Program.cs">
+    <Files>
+      <File FileName="CAB201_Week_3_Notes/Program.cs" Line="42" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

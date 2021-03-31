@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catching_Exceptions", "Catching_Exceptions\Catching_Exceptions.csproj", "{D1BC9882-3376-46F5-AED4-C32BBD55B708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BC9882-3376-46F5-AED4-C32BBD55B708}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D1BC9882-3376-46F5-AED4-C32BBD55B708}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D1BC9882-3376-46F5-AED4-C32BBD55B708}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D1BC9882-3376-46F5-AED4-C32BBD55B708}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/don/Projects/Matrix_Library/Matrix_Library/bin/Debug/Matrix_Library.exe
+/Users/don/Projects/Matrix_Library/Matrix_Library/bin/Debug/Matrix_Library.pdb
+/Users/don/Projects/Matrix_Library/Matrix_Library/obj/Debug/Matrix_Library.csprojAssemblyReference.cache
+/Users/don/Projects/Matrix_Library/Matrix_Library/obj/Debug/Matrix_Library.csproj.CoreCompileInputs.cache
+/Users/don/Projects/Matrix_Library/Matrix_Library/obj/Debug/Matrix_Library.exe
+/Users/don/Projects/Matrix_Library/Matrix_Library/obj/Debug/Matrix_Library.pdb

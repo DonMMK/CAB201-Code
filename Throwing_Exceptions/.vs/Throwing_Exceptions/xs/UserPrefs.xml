@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2105417C-C9E8-40B0-B02E-4637859ED710}|Default">
+  <MonoDevelop.Ide.ItemProperties.Throwing__Exceptions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Throwing_Exceptions/Program.cs">
+    <Files>
+      <File FileName="Throwing_Exceptions/Program.cs" Line="73" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Throwing_Exceptions" expanded="True">
+            <Node name="Throwing_Exceptions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Throwing_Exceptions" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

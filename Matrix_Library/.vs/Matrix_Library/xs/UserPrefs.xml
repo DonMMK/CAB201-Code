@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{F9D467D9-5E7E-422D-8A30-6D57A61DAE5F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matrix_Library/Program.cs">
+    <Files>
+      <File FileName="Matrix_Library/Program.cs" Line="46" Column="51" />
+      <File FileName="../CAB201_Week_3_Notes/CAB201_Week_3_Notes/Program.cs" Line="45" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Matrix_Library" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Matrix__Library PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

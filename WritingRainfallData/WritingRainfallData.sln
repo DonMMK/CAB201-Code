@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingRainfallData", "WritingRainfallData\WritingRainfallData.csproj", "{094A3BC4-D7DB-4353-8A7F-3E9E38DA21CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{094A3BC4-D7DB-4353-8A7F-3E9E38DA21CC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{094A3BC4-D7DB-4353-8A7F-3E9E38DA21CC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{094A3BC4-D7DB-4353-8A7F-3E9E38DA21CC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{094A3BC4-D7DB-4353-8A7F-3E9E38DA21CC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

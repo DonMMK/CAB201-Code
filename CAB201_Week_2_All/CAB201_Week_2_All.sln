@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAB201_Week_2_All", "CAB201_Week_2_All\CAB201_Week_2_All.csproj", "{5CA3BE99-3E01-4FB9-B160-8264BD5CE839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA3BE99-3E01-4FB9-B160-8264BD5CE839}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5CA3BE99-3E01-4FB9-B160-8264BD5CE839}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5CA3BE99-3E01-4FB9-B160-8264BD5CE839}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5CA3BE99-3E01-4FB9-B160-8264BD5CE839}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{07833CE1-D92D-4297-851F-95BEEB3FD61B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Life/Program.cs">
+    <Files>
+      <File FileName="Life/Program.cs" Line="1267" Column="196" />
+      <File FileName="Life/CellStructure.cs" Line="8" Column="31" />
+      <File FileName="Life/CheckingShapes.cs" Line="1" Column="1" />
+      <File FileName="Life/ElipseStructure.cs" Line="12" Column="1" />
+      <File FileName="Life/RectangularStructure.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Life PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

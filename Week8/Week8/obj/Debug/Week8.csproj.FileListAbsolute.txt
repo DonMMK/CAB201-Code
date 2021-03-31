@@ -1,0 +1,6 @@
+/Users/don/Projects/Week8/Week8/bin/Debug/Week8.exe
+/Users/don/Projects/Week8/Week8/bin/Debug/Week8.pdb
+/Users/don/Projects/Week8/Week8/obj/Debug/Week8.csprojAssemblyReference.cache
+/Users/don/Projects/Week8/Week8/obj/Debug/Week8.csproj.CoreCompileInputs.cache
+/Users/don/Projects/Week8/Week8/obj/Debug/Week8.exe
+/Users/don/Projects/Week8/Week8/obj/Debug/Week8.pdb
