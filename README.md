@@ -10,11 +10,11 @@ Week 5: Files and Streams
 Week 6: Using Classes and Objects  
 Week 7: Introduction to Inheritance  
 Week 8: Exception Handling  
-Week 9: Dynamic Link Libraries
-Week 10: Project Discussion
+Week 9: Dynamic Link Libraries  
+Week 10: Project Discussion  
 Week 11: Internal Sorting Algorithms  
-Week 12: Computational Complexity
-Week 13: Debugging
+Week 12: Computational Complexity  
+Week 13: Debugging  
 
 ### Learning outcomes
 -   Explain the principles and advantages of object-oriented design and programming.
