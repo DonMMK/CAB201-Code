@@ -3,7 +3,7 @@ This repository contains the code for CAB201 which is a part of the core curricu
 
 ### Topics Covered 
 Week 1: A First Program Using C#  
-Week 2: Making Decisions
+Week 2: Making Decisions  
 Week 3: Using Arrays  
 Week 4: Advanced Method Concepts  
 Week 5: Files and Streams  
